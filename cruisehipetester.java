@@ -1,5 +1,5 @@
 /* *************************************************************
- * Programmer Name: Nandita Lohani and Lysistrata Chin Kanellakis
+ * Programmer Name: Nandita Lohani 
  * Date: June 16, 2021
  * *************************************************************
  * Purpose: 'Cruise'ship, a simplistic alternate version of the classic game Battleship, where players battle each other's 5 cruise ships 
